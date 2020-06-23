@@ -1,0 +1,3 @@
+CLS
+node .
+PAUSE
